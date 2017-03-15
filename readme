@@ -1,0 +1,12 @@
+To create a new project and install GraphQL.js in your current directory:
+npm init
+npm install graphql --save
+
+Run :
+node server.js
+
+Running an Express GraphQL Server:
+npm install express express-graphql --save
+
+Access with browser:
+http://localhost:4000/graphql
