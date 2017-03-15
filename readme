@@ -1,3 +1,6 @@
+
+NodeJS needs to be installed as a prerequisite.
+
 To create a new project and install GraphQL.js in your current directory:
 npm init
 npm install graphql --save
